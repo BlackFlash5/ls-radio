@@ -1,26 +1,14 @@
 # ls-radio
+Enables you to use the radio (joining/switching/exiting) with channels from 1 to 100 MHz (1-10 MHz is reserved for police, ems and fire).  
+You can set channels to be restricted (default 1-10) in the `config.lua` and whether you need an item called `radio`.
 
-## Created for LS-Story.pl by AlCapone
+(Original)[https://github.com/alcapone-dev/ls-radio] created for LS-Story.pl by AlCapone.  
+Modified to work with Salty Chat.
 
-### Requirements
-* ESX (https://github.com/ESX-Org/es_extended)
-* mythic_notify (https://github.com/mythicrp/mythic_notify)
-* TokoVoip (https://github.com/Itokoyamato/TokoVOIP_TS3)
+## Requirements
+* [ESX](https://github.com/ESX-Org/es_extended)
+* [mythic_notify](https://github.com/mythicrp/mythic_notify)
+* [Salty Chat](https://www.saltmine.de/)
 
-### Short description
-
-It enables us to use the radio joining/switching/exiting from 1MHz to 100 MHz (1-10MHz its reserved for police, ambulance and fire) for officers and civilian. We can set in the `config.lua` what channels are to be restricted(default 1 - 10), and what should be opened to anyone who has the item `radio`
-
-### Info
-
-For working you must add item `radio` in your database
-
-
-### Contact with me
-
-* Discord: alcapone#4247
-* Steam: https://steamcommunity.com/id/r0mang/
-
-### Screenshots
-
+## Screenshot
 ![Screenshot](https://i.imgur.com/TtcLelA.jpg)
